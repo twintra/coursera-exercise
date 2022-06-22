@@ -57,6 +57,9 @@ h4 {
 }
 
 @media screen and (min-width: 768px) {
+    #collapsable-nav {
+        border-bottom: 0px solid transparent;
+    }
     #nav-list {
         display: none ;
     }
