@@ -1,0 +1,60 @@
+body {
+    font-size: 16px;
+    color: #fff;
+    background-color: #594F4F;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    box-sizing: border-box;
+}
+
+#header-nav {
+    background-color: #547980;
+    border-radius: 0;
+    border: 0;
+    margin: 0;
+}
+
+li > a.menu-list {
+    color:white !important;
+}
+
+#company-name, #company-name:hover{
+    
+    text-align: center;
+    
+    color: white
+    
+    
+}
+
+.content-box {
+    background-color: rgba(255, 255, 255, 0.9) ;
+    border-radius: 10px;
+    padding: 10px;
+    color: #547980
+}
+
+section {
+    box-sizing: border-box;
+    padding: 10px;
+    background-color: transparent;
+}
+
+h4 {
+    text-align: center;
+}
+
+@media screen and (min-width: 768px) {
+    #nav-list {
+        display: none ;
+    }
+}
+@media screen and (min-width: 992px) {
+    #nav-list {
+        display: none ;
+    }
+}
+@media screen and (min-width: 1200px) {
+    #nav-list {
+        display: none ;
+    }
+}
