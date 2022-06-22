@@ -15,6 +15,19 @@ body {
 
 li > a.menu-list {
     color:white !important;
+    
+}
+
+li > a.menu-list:hover {
+    background-color: rgba(255, 255, 255, 0.2) !important;
+}
+#collapsable-nav {
+    border-bottom: 1px solid #fff;
+}
+
+hr {
+    height:1px;
+    margin: 4px;
 }
 
 #company-name, #company-name:hover{
