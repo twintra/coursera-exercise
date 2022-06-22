@@ -15,7 +15,6 @@ body {
 
 li > a.menu-list {
     color:white !important;
-    text-align: center;
 }
 
 li > a.menu-list:hover {
