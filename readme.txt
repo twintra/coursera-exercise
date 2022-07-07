@@ -1,1 +1,1 @@
-start dev : browser-sync start --server --directory --files "*"
+start dev : browser-sync start --server --directory --files "*/**"
